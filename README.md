@@ -110,18 +110,18 @@ bash
 ## 📁 Project Structure
 
 
-├── bscs24112Source.cpp
-├── bscs24112Piece.{h,cpp}
-├── bscs24112King.{h,cpp}
-├── bscs24112Queen.{h,cpp}
-├── bscs24112Bishop.{h,cpp}
-├── bscs24112Knight.{h,cpp}
-├── bscs24112Rook.{h,cpp}
-├── bscs24112Pawn.{h,cpp}
-├── bscs24112Board.{h,cpp}
-├── bscs24112Header.h
-├── grid.txt (save/load state)
-├── *.png (chess piece images)
+├── bscs24112Source.cpp<br>
+├── bscs24112Piece.{h,cpp}<br>
+├── bscs24112King.{h,cpp}<br>
+├── bscs24112Queen.{h,cpp}<br>
+├── bscs24112Bishop.{h,cpp}<br>
+├── bscs24112Knight.{h,cpp}<br>
+├── bscs24112Rook.{h,cpp}<br>
+├── bscs24112Pawn.{h,cpp}<br>
+├── bscs24112Board.{h,cpp}<br>
+├── bscs24112Header.h<br>
+├── grid.txt (save/load state)<br>
+├── *.png (chess piece images)<br>
 
 
 ---
@@ -139,7 +139,7 @@ bash
 
 All chess piece images (bishop-B.png, king-W.png, etc.) are located in the repo. You can download them via:
 
-🔗 [GitHub Repo Link](https://github.com/ali-maqsood1/Chess)
+🔗 [GitHub Repo Link](https://github.com/SaraAbidHussain/Chess.git)
 
 > Images are rendered automatically during runtime using Raylib.
 
