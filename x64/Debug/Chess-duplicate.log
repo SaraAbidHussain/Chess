@@ -1,0 +1,11 @@
+﻿  bscs24112Board.cpp
+C:\Users\Abid Dogar\source\repos\Chess-duplicate\Chess-duplicate\bscs24112Board.cpp(308,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Abid Dogar\source\repos\Chess-duplicate\Chess-duplicate\bscs24112Board.cpp(309,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  bscs24112King.cpp
+  bscs24112Pawn.cpp
+  bscs24112Piece.cpp
+  bscs24112Source.cpp
+  Generating Code...
+  Chess-duplicate.vcxproj -> C:\Users\Abid Dogar\source\repos\Chess-duplicate\x64\Debug\Chess-duplicate.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
